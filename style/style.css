@@ -1,0 +1,33 @@
+/*Las tipografías utilizadas son:
+
+- 'Lucida Sans Unicode', 'Lucida Grande', sans-serif
+- Impact, Charcoal, sans-serif
+- Arial, Gadget, sans-serif */
+
+header{ background-color:rgb(255, 255, 255);
+}
+main{background-color: rgb(27, 27, 114);
+    color: white;
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif ;
+}
+
+body{background-color: rgb(27, 27, 114); }
+
+h1{ color: rgb(39, 39, 104); 
+text-align: center;
+font-family:Impact, Charcoal, sans-serif ;
+}
+
+h2{ font-family:Arial, Gadget, sans-serif; }
+
+.aspiradoras{ color: yellow;}
+
+.celulares{ color:skyblue ;}
+
+.consolas{ color:orangered ; }
+
+.home-theaters{ color: rgb(116, 115, 117); }
+
+.televisores{ color: darkgreen; }
+
+img{ margin-left: 100px; } 
