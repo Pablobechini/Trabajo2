@@ -1,0 +1,33 @@
+.logo{margin: auto;
+width: 500px ;
+height: 400px;}
+
+h1{ text-align: center;
+color: rgb(204, 6, 105);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+letter-spacing: 30px;
+font-size: 35px;}
+
+main{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: rgb(108, 108, 247);
+font-size: 14px;}
+
+h2{color: rgb(204, 6, 105) ;
+letter-spacing: 10px;
+font-family: cursive;}
+
+.mickey{width:100% ;
+}
+
+.lodge{float: right;
+width: 300px;
+height: 150px;}
+
+.resort{float: left;
+    width: 250px;
+    height: 130px;
+}
+
+.pop{float: right;
+width: 280px;
+height: 130px;}
