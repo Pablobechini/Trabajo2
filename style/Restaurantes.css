@@ -5,3 +5,43 @@ h1{ text-align: center;
 color: yellow;}
 
 .imagenes{text-align: center;}
+
+.barcelona{height: auto ;
+margin: 5px;
+border: 10px solid white;}
+
+.buenos_aires{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.madrid{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.miami{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.paris{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.pipa{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.rio_de_janeiro{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.roma{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.rosario{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}
+
+.tokio{height: auto ;
+    margin: 5px;
+    border: 10px solid white;}

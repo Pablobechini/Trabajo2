@@ -6,14 +6,14 @@
 
 header{ background-color:rgb(255, 255, 255);
 }
-main{background-color: rgb(27, 27, 114);
+main{background-color: rgb(29, 29, 61);
     color: white;
     font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif ;
 }
 
-body{background-color: rgb(27, 27, 114); }
+body{background-color:  rgb(29, 29, 61) }
 
-h1{ color: rgb(39, 39, 104); 
+h1{ color: rgb(29, 29, 61); 
 text-align: center;
 font-family:Impact, Charcoal, sans-serif ;
 }
@@ -30,4 +30,5 @@ h2{ font-family:Arial, Gadget, sans-serif; }
 
 .televisores{ color: darkgreen; }
 
-img{ margin-left: 100px; } 
+img{ margin-left: 100px;
+border: 10px solid white;} 
